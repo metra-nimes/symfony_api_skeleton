@@ -1,0 +1,9 @@
+.git/
+node_modules/
+yarn-error.log
+logs/
+data/
+var/cache/**
+var/log/**
+.idea
+Makefile
